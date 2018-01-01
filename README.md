@@ -1,2 +1,2 @@
 # TriviaGame
-NBC Timers Homework
+NCB Timers Homework
