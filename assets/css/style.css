@@ -1,0 +1,24 @@
+.main {
+	background-color: white;
+	padding: 20px;
+}
+.content {
+	text-align: center;
+}
+
+#finalA {
+	text-align: center;
+	margin:0 auto;
+}
+
+#trivia {
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+#timer {
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+}
